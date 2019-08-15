@@ -5,5 +5,5 @@ import (
 )
 
 func Test2(param1 string, param2 string) {
-	Test1()
+	gotest1.Test1()
 }
