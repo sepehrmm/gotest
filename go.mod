@@ -1,4 +1,4 @@
-module github.com/sepehrmm/gotest
+module github.com/sepehrmm/gotest/v2
 
 go 1.12
 
